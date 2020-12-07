@@ -1,12 +1,15 @@
 # Dotfiles
-These are my custom dotfiles for the development environment. Following packages are required: 
+These are my custom dotfiles for the development environment.\
+Required packages: 
 + bspwm
 + sxhkd
 + tint2
 + rofi
-+ nm-applet (optional)
-+ compton (optional)
-+ nvidia-settings (optional)
+
+Optional packages: 
++ nm-applet
++ compton
++ nvidia-settings
 
 ## Screenshot
 ![Environment](https://github.com/niwald/Dotfiles/blob/main/img/twm-de-2.png)
