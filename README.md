@@ -1,5 +1,9 @@
 # Dotfiles
 These are my custom dotfiles for the development environment.
+Install the required packages. Copy or clone all folders to the **~/.config** directory.
+Set permissions for shell scripts ```sh chmod +x bspwmrc```. Enjoy!
+
+![Environment](https://github.com/niwald/Dotfiles/blob/main/img/twm-de-2.png)
 
 **Required** packages: 
 + bspwm
@@ -13,8 +17,7 @@ These are my custom dotfiles for the development environment.
 + nvidia-settings
 + lxappearance
 
-## Screenshot
-![Environment](https://github.com/niwald/Dotfiles/blob/main/img/twm-de-2.png)
+
 
 ## bspwm
 The TWM of choice here. Currently the config is built to work along with XFCE. 
