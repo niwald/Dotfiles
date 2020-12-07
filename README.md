@@ -1,15 +1,17 @@
 # Dotfiles
-These are my custom dotfiles for the development environment.\
-Required packages: 
+These are my custom dotfiles for the development environment.
+
+**Required** packages: 
 + bspwm
 + sxhkd
 + tint2
 + rofi
 
-Optional packages: 
+**Optional** packages: 
 + nm-applet
 + compton
 + nvidia-settings
++ lxappearance
 
 ## Screenshot
 ![Environment](https://github.com/niwald/Dotfiles/blob/main/img/twm-de-2.png)
@@ -41,3 +43,6 @@ Solving the tearing issue with NVIDIA cards by enabling the CompositionPipeline 
 ```sh
 nvidia-settings --assign CurrentMetaMode="nvidia-auto-select +0+0 { ForceFullCompositionPipeline = On }"
 ```
+
+## lxappearance
+Desktop-independent theme switcher for GTK+. Useful for quick theme settings because you might want to run those as well in your TWM.
