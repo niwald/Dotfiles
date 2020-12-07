@@ -1,7 +1,7 @@
 # Dotfiles
 These are my custom dotfiles for the development environment.
 Install the required packages. Copy or clone all folders to the **~/.config** directory.
-Set permissions for shell scripts ```sh chmod +x bspwmrc```. Enjoy!
+Set permissions for shell scripts ```chmod +x bspwmrc```. Enjoy!
 
 ![Environment](https://github.com/niwald/Dotfiles/blob/main/img/twm-de-2.png)
 
