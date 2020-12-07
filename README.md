@@ -8,6 +8,9 @@ These are my custom dotfiles for the development environment. Following packages
 + compton (optional)
 + nvidia-settings (optional)
 
+## Screenshot
+![Environment](https://github.com/niwald/Dotfiles/blob/main/img/twm-de-2.png)
+
 ## bspwm
 The TWM of choice here. Currently the config is built to work along with XFCE. 
 This means that it uses **xfsettings** and **xfce4-terminal** for a quick setup. 
@@ -23,7 +26,7 @@ rofi -combi-modi run,drun -show combi -modi combi -show-icons
 
 ## compton
 Lightweight compositor. Used for transparency, fade and shadows in this case. 
-Makes the environment handling easier on the eyes. 
+Makes the environment handling easier on the eyes and is available in Debian and Arch repositories. 
 
 ## tint2 
 Lightweight panel with very good customization options. Also supports Shell scripts out of the box and provides a systray area.
